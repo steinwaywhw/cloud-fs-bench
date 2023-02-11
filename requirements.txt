@@ -1,0 +1,6 @@
+pandas
+seaborn
+fsspec
+fusepy
+ipykernel
+s3fs
